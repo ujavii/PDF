@@ -1,2 +1,2 @@
 # PDF
- PDF tools to make easier the work.
+ PDF tools to make your work easier.
